@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6692446-689e-4d2a-9b03-6ac112453ac3" name="变更" comment="变更">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/PacmanConfigurationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/PacmanConfigurationException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/BoardFactory$Ground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/BoardFactory$Ground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/BoardFactory$Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/BoardFactory$Wall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/BoardFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/BoardFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/board/Unit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/game/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/game/GameFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/game/SinglePlayerGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/game/SinglePlayerGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionInteractionMap$CollisionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionInteractionMap$CollisionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionInteractionMap$InverseCollisionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionInteractionMap$InverseCollisionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionInteractionMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionInteractionMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/CollisionMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/DefaultPlayerInteractionMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/DefaultPlayerInteractionMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Level$LevelObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Level$LevelObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Level$NpcMoveTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Level$NpcMoveTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Level.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/LevelFactory$RandomGhost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/LevelFactory$RandomGhost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/LevelFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/LevelFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/MapParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/MapParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Pellet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Pellet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/PlayerCollisions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/PlayerCollisions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/PlayerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/level/PlayerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/Ghost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/Ghost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Blinky.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Blinky.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Clyde.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Clyde.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/GhostColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/GhostColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/GhostFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/GhostFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Inky.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Inky.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Navigation$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Navigation$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Navigation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Navigation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Pinky.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/npc/ghost/Pinky.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/points/DefaultPointCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/points/DefaultPointCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/points/PointCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/points/PointCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/points/PointCalculatorLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/points/PointCalculatorLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/AnimatedSprite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/AnimatedSprite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/EmptySprite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/EmptySprite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/ImageSprite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/ImageSprite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/PacManSprites.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/PacManSprites.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/Sprite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/Sprite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/SpriteStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/sprite/SpriteStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/BoardPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/BoardPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/ButtonPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/ButtonPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/PacKeyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/PacKeyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/PacManUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/PacManUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/PacManUiBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/PacManUiBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/ScorePanel$ScoreFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/ScorePanel$ScoreFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/ScorePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/nl/tudelft/jpacman/ui/ScorePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/BasicSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/BasicSquare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/BasicUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/BasicUnit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/BoardWithinBordersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/BoardWithinBordersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/DirectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/DirectionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/OccupantTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/board/OccupantTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/startup/MovePlayerSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/startup/MovePlayerSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/startup/StartGameSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/startup/StartGameSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/startup/StartupCnSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/startup/StartupCnSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/suspension/ResumeSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/suspension/ResumeSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/suspension/SuspensionSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/e2e/framework/suspension/SuspensionSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/npc/ghost/ClydeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/npc/ghost/ClydeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/npc/ghost/GhostMapParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/nl/tudelft/jpacman/npc/ghost/GhostMapParser.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PMbjSlnQEbh0UHiXEpWNtBlJ8A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="nl.tudelft.jpacman.level" />
+      <recent name="nl.tudelft.jpacman.npc.ghost" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MapParserTest">
+    <configuration name="ClydeTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;nl.tudelft.jpacman.npc.ghost.ClydeTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OccupantTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;nl.tudelft.jpacman.board.OccupantTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OccupantTest.noStartSquare" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;nl.tudelft.jpacman.board.OccupantTest.noStartSquare&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ClydeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jpacman.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.tudelft.jpacman.npc.ghost.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.tudelft.jpacman.npc.ghost" />
+      <option name="MAIN_CLASS_NAME" value="nl.tudelft.jpacman.npc.ghost.ClydeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jpacman.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.tudelft.jpacman.level.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.tudelft.jpacman.level" />
+      <option name="MAIN_CLASS_NAME" value="nl.tudelft.jpacman.level.MapParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MapParserTest" />
+        <item itemvalue="JUnit.ClydeTest" />
+        <item itemvalue="Gradle.ClydeTest (1)" />
+        <item itemvalue="Gradle.OccupantTest" />
+        <item itemvalue="Gradle.OccupantTest.noStartSquare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d6692446-689e-4d2a-9b03-6ac112453ac3" name="变更" comment="" />
+      <created>1683270037273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683270037273</updated>
+      <workItem from="1683270039777" duration="3031000" />
+      <workItem from="1684761489175" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jpacman$ClydeTest.ic" NAME="ClydeTest Coverage Results" MODIFIED="1684205993766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.tudelft.jpacman.npc.ghost.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/jpacman$MapParserTest.ic" NAME="MapParserTest 覆盖结果" MODIFIED="1684762006136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.tudelft.jpacman.level.*</FILTER>
+    </SUITE>
+  </component>
+</project>
